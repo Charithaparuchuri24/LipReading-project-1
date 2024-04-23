@@ -1,0 +1,10 @@
+double click on run.bat file then web cam will open and in webcam move your lip slowly by saying below words
+
+hello, dog, my, you, lips, cat, read, a, demo, here, is, bye, can
+
+when your lip is moving properly then webcam will say you are talking else will say 'Not Talking' so say some words and application must show 'Talking' status
+and once done wait for few seconds without moving your lips or remove ur face from webcam to predict said words
+
+install python 3.7 and then install all packages given in requirements.txt file
+
+if u dont know how to make lips for correct words then see lip structure in dataset folder for approparite words and make your lips similar to that
